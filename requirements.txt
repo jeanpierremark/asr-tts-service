@@ -1,4 +1,12 @@
 flask
-numpy
 soundfile
+sentencepiece
+protobuf==4.25.3
 transformers
+numpy
+torchaudio
+torchcodec==0.9
+python_dotenv
+datasets==3.6.0
+IPython
+google-generativeai
